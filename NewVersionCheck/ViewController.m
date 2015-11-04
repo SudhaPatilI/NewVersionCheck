@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"Inside New Version Check");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
